@@ -4,10 +4,9 @@
 
 This was a live project at the Tech Academy where I worked on a team for two weeks developing a web application utilizing Django Framework. We were given abstractions to create functionality
 for our personal applications and were required to research how to do these on our own. My app focused on Reflective Journaling. I created a database
-to help track moods, sleep patterns, and express thoughts and feelings through journaling for self discovery. The user was able create, edit, and delete entries and well track their mood over time. I also included an API that provided a daily
-inspirational quotes along with a search feature for specific topics. This was a great experiencing learning Django Framework, CRUD functionality, API's, and working in a devs ops team environment.
-
- We used Visual Studio as the IDE with Azure Devops and Agile/Scrum methodologies to develop this project.
+to help track moods, sleep patterns, and express thoughts and feelings through journaling for self discovery. The user was able create, edit, and delete entries and well track their mood over time.
+ I also included an API that provided a daily inspirational quotes along with a search feature for specific topics. This was a great experiencing learning Django Framework, CRUD functionality, 
+API's, and working in a devs ops team environment. PyCharm was used at the IDE with Azure Devops and Agile/Scrum methodologies to develop this project.
 
 ## Creating a Model and Form
 
@@ -175,7 +174,7 @@ def quotes(request):
 
 This project was fun, engaging, and provided great real world experience. Through doing this I was able to: 
 * Increase my knowledgebase of programming languages and concepts used.
-* Improve the project flow by communicating with the team about roadblocks and other challenges.
+* Working with a team to complete tasks in a timely and efficient manner
 * Learn new efficiencies from other developers by observing their workflow and asking questions.
 * Focus on writing clean efficient code.
 
